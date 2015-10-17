@@ -1,1 +1,3 @@
-# boilerplate
+# Boilerplate
+
+- Look into normalize.css
